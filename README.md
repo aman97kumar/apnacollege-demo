@@ -1,4 +1,4 @@
-# apnacollege-demo
-this is my first Git Respository
+
+this is my first git repository.
 <br>
-Author - Aman kumar
+authot-aman kumar
